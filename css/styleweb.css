@@ -1,7 +1,7 @@
 * body {
   font-family: Helvetica, sans-serif;
   margin: 0px;
-  min-height: 390vh;
+  min-height: 420vh;
   display: flex;
   flex-direction: column;
 }
